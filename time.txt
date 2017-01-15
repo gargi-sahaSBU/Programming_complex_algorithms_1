@@ -1,0 +1,33 @@
+K :30
+time taken by a4main: 1.2930524100083858
+time taken by a4maintemp: 1.3538684521336108
+K :35
+time taken by a4main: 1.3366713121067733
+time taken by a4maintemp: 1.4441691141109914
+K :40
+time taken by a4main: 1.4645518029574305
+time taken by a4maintemp: 1.5616270690225065
+K :45
+time taken by a4main: 1.5001821478363127
+time taken by a4maintemp: 1.7378907310776412
+K :50
+time taken by a4main: 1.6316675869747996
+time taken by a4maintemp: 1.8168718051165342
+K :55
+time taken by a4main: 1.777825745055452
+time taken by a4maintemp: 1.922424865886569
+K :60
+time taken by a4main: 1.883501848904416
+time taken by a4maintemp: 2.082124033011496
+K :65
+time taken by a4main: 1.9730896500404924
+time taken by a4maintemp: 2.146352675044909
+K :70
+time taken by a4main: 2.040659627877176
+time taken by a4maintemp: 2.362320462008938
+K :75
+time taken by a4main: 2.252425706014037
+time taken by a4maintemp: 2.459122739965096
+K :80
+time taken by a4main: 2.3916733551304787
+time taken by a4maintemp: 2.580620473017916
